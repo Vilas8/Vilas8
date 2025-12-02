@@ -1,4 +1,4 @@
-👋 Hey there, I'm Vilas8!<br>
+👋 Hey there, I'm Vilas!<br>
 🚀 Aspiring Developer | Code Enthusiast | Open Source Contributor<br>
 🌐 Exploring the vast world of technology and making an impact, one line of code at a time.<br>
 💻 Currently honing my skills in HTML,CSS,javascript <br>
